@@ -24,7 +24,7 @@ def create_features(df):
 
 # Read data  ， You may need to change the path
 rt = "C:/Users/steve/Desktop/機器學習/final_project"
-os.chdir(os.getcwd())
+os.chdir(rt)
 
 train_data = pd.read_csv('./input/train.csv', index_col='id')
 test_data = pd.read_csv('./input/test.csv', index_col='id')
