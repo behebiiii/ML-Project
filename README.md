@@ -20,4 +20,4 @@ python inference.py
 
 You can download pretrained models here:
 
-- [My model]([https://drive.google.com/mymodel.pth](https://drive.google.com/file/d/11gyniZNc9GogyBesy8P7BQPZbblGEnOE/view?usp=sharing)) 
+- [My model](https://drive.google.com/file/d/11gyniZNc9GogyBesy8P7BQPZbblGEnOE/view?usp=sharing) 
